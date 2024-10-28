@@ -1,0 +1,26 @@
+{
+  "name": "convert-kit",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hridel/convert-kit.git"
+  },
+  "keywords": [],
+  "author": "Ing. Jan Hridel (@wdwcx)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hridel/convert-kit/issues"
+  },
+  "homepage": "https://wdw.cx/npm-packages/convert-kit",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
