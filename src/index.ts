@@ -1,1 +1,1 @@
-export { ColorConverter } from './color/ColorConverter';
+export { ColorConverter } from "./color/ColorConverter";
