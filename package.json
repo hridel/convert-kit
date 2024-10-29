@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/hridel/convert-kit.git"
   },
-  "keywords": [],
+  "keywords": ["typescript", "javascript", "npm", "color", "colors", "rgb", "hsl", "hex", "hexadecimal","convert", "kit", "library"],
   "author": "Ing. Jan Hridel (@wdwcx)",
   "license": "Apache-2.0",
   "bugs": {

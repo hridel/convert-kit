@@ -1,4 +1,4 @@
-# Converter-kit
+# Convert-kit
 
 ## ColorConverter
 
@@ -9,7 +9,7 @@ ColorConverter is a TypeScript library for converting colors between different f
 You can install the package using npm:
 
 ```sh
-npm install @hridel/converter-kit
+npm install @hridel/convert-kit
 ```
 
 ### Usage
@@ -17,7 +17,7 @@ npm install @hridel/converter-kit
 #### Importing the Library
 
 ```typescript
-import { ColorConverter } from 'color-converter';
+import { ColorConverter } from '@hridel/convert-kit';
 ```
 
 #### Converting RGB to Hex
