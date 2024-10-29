@@ -20,7 +20,7 @@
     "url": "https://github.com/hridel/convert-kit/issues"
   },
   "homepage": "https://wdw.cx/npm-packages/convert-kit",
-  "description": "",
+  "description": "A library for converting colors between different formats (RGB, HSL, HEX).",
   "devDependencies": {
     "prettier": "3.3.3",
     "typescript": "^5.6.3"
